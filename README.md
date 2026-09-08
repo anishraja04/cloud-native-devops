@@ -34,3 +34,7 @@ To enable GitHub Actions deployment:
    - `EC2_HOST`: The public IP of the EC2 instance (from Terraform output).
    - `EC2_SSH_KEY`: The private SSH key for the instance.
 3. Every push to the `master` branch will automatically trigger the deployment pipeline.
+
+
+## Community
+Contributions are always welcome. See CONTRIBUTING.md for details.
